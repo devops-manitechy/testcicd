@@ -23,4 +23,4 @@ pipeline {
             }
         }
     }
-    
+} // This is the missing closing curly brace
